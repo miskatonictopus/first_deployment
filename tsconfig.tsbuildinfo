@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/galaxy.tsx","./src/lib/utils.ts"],"version":"5.8.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/galaxy.tsx","./src/lib/utils.ts","./src/types/vite-plugins.d.ts"],"version":"5.8.3"}
