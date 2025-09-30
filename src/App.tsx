@@ -1,7 +1,7 @@
 // src/App.tsx
 import Galaxy from "@components/Galaxy"; 
 
-function App(): JSX.Element {
+function App() {
   return (
     <div
       style={{
